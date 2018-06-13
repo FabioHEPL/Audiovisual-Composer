@@ -5,4 +5,4 @@ Un outil expérimental d'aide à la création d'animations "audiovisuelles" sur 
 
 
 
-[![Adam](http://img.youtube.com/vi/44M7JsKqwow/0.jpg)](http://www.youtube.com/watch?v=44M7JsKqwow)
+[![Adam](http://img.youtube.com/vi/V6Zo68uQPqE/0.jpg)](http://www.youtube.com/watch?v=V6Zo68uQPqE)
