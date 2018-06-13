@@ -11,4 +11,4 @@ Un outil expérimental d'aide à la création d'animations "audiovisuelles" sur 
 ### Sk8hero "Reboot"
 
 
-## Fonctionnement schématique de la bibliothèque d'intéropérabilité "CSharpVamp"
+## Fonctionnement de la bibliothèque d'intéropérabilité "CSharpVamp"
