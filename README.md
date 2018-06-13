@@ -2,8 +2,6 @@
 Un outil expérimental d'aide à la création d'animations "audiovisuelles" sur Unity
 
 <br />
-<br />
-
 ## Exemples d'applications concrètes
 
 
