@@ -1,7 +1,7 @@
 # Audiovisual Composer
 Un outil expérimental d'aide à la création d'animations "audiovisuelles" sur Unity
 
-## Exemples d'applications concrètes
+## Quelques exemples d'applications concrètes
 
 
 ### Éléments de la musique
@@ -9,3 +9,6 @@ Un outil expérimental d'aide à la création d'animations "audiovisuelles" sur 
 ### Petite animation 2D
 
 ### Sk8hero "Reboot"
+
+
+## Fonctionnement schématique de la bibliothèque d'intéropérabilité "CSharpVamp"
