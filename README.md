@@ -1,17 +1,12 @@
 # Audiovisual Composer
-Un outil expérimental d'aide à la création d'animations "audiovisuelles" sur Unity
+> Un outil expérimental d'aide à la création d'animations "audiovisuelles" sur Unity
 
 
-> test
 
-## test 2
+# Exemples d'applications concrètes
 
-### test 3
 
-#### test4
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/44M7JsKqwow" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-<b>a</b>
-
-<i>hello</i>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
+" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
