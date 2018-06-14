@@ -18,6 +18,16 @@ Un outil expérimental d'aide à la création d'animations "audiovisuelles" sur 
 > - Energie (RMS)
 > - Amplitude du signal sonore
 
+
+<p align="center">
+<img src="https://image.ibb.co/g26QvJ/Audiovisual_Composer_1.png" 
+  alt="Timeline" width="600" height="auto" border="10" /><br />
+  <b>Capture d'écran de la timeline dans Unity.</b></p>
+  
+Cette animation est un exemple de liaison des éléments de la musique aux éléments visuels de manière automatique.
+ 
+
+
 ### Petite animation 2D
 
 ### Sk8hero "Reboot"
