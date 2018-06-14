@@ -10,7 +10,7 @@ Un outil expérimental d'aide à la création d'animations "audiovisuelles" sur 
    <kbd>
   <a href="http://www.youtube.com/watch?feature=player_embedded&v=avAaE3wvUH4
   " target="_blank"><img src="https://image.ibb.co/ivFJFJ/Audiovisal_Composer_Exemple_1.jpg" 
-                         alt="Petite démo" width="600" height="auto" border="10" /></a></kbd><br /><br />
+                         alt="Petite démo" width="600" height="auto" border="10" /></a></kbd><br />
   <b>Vidéo Youtube.</b>
 </p>
 
