@@ -1,7 +1,7 @@
 # Audiovisual Composer
 Un outil expérimental d'aide à la création d'animations "audiovisuelles" sur Unity
 
-## Quelques exemples d'applications concrètes
+## Quelques exemples d'applications
 
 
 ### Petite démo
