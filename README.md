@@ -8,7 +8,7 @@ Un outil expérimental d'aide à la création d'animations "audiovisuelles" sur 
 
 <p align="center">
   <a href="http://www.youtube.com/watch?feature=player_embedded&v=avAaE3wvUH4
-  " target="_blank"><img src="http://img.youtube.com/vi/avAaE3wvUH4/maxresdefault.jpg" 
+  " target="_blank"><img src="http://img.youtube.com/vi/avAaE3wvUH4/hqdefault.jpg" 
   alt="Petite démo" width="600" height="auto" border="10" /></a>
 </p>
 
