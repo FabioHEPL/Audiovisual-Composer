@@ -12,7 +12,7 @@ Un outil expérimental d'aide à la création d'animations "audiovisuelles" sur 
   alt="Petite démo" width="600" height="auto" border="10" /></a>
 </p>
 
-> Petite démo de l'outil en rapport avec les éléments de la musique suivants :
+> Petite démo de l'outil, en rapport avec les éléments de la musique suivants :
 > - Début de notes (Note Onsets)
 > - Battements du tempo (Beats)
 > - Energie (RMS)
