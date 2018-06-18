@@ -35,4 +35,3 @@ Cette animation est un exemple de liaison des éléments de la musique aux élé
 ### Sk8hero "Reboot"
 
 
-## Fonctionnement de la bibliothèque d'intéropérabilité "CSharpVamp"
