@@ -30,8 +30,6 @@ Cette animation est un exemple de liaison des éléments de la musique aux élé
  
 
 
-### Petite animation 2D
-
 ### Sk8hero "Reboot"
 
 
